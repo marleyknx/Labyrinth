@@ -1,0 +1,28 @@
+inspi phasmofobia 
+
+
+
+labyrinthe Game
+
+jauge de folie plus la folie baisse plus en vois d'ennemie
+recuper des medoc pour faire disparaitre les monstre 
+sortir 
+
+long terme :
+objectif : sortir du labyrinthe
+challenge : santée mental et nombre d'ennemie
+reward : fellicitation lancement du jeux avec la jauge qui se vide plus vite
+
+moyen terme :
+objectif : ramasser les medoc
+challenge :  les ennemie qui nous cible
+reward : moin d'ennemie
+
+court terme : 
+objectif : marcher jusqu'a medoc
+challenge les murs du labyrinthe
+reward : trouver les medoc  
+
+
+
+
